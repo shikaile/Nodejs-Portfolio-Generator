@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikaile/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikaile/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/shikaile/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "node-fetch": "^3.2.10"
+  }
+}
